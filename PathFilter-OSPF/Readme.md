@@ -28,7 +28,7 @@ R1 --- R2 --- R3
 
 ## 🎯 Objective
 
-Prevent the network `192.168.10.0/24` (originating on R1) from being advertised to R3 (in Area 1) via OSPF.
+Prevent the network `192.168.20.0/24` (originating on R1) from being advertised to R3 (in Area 1) via OSPF.
 
 ---
 
